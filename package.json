@@ -11,5 +11,6 @@
   "devDependencies": {
     "prettier": "2.1.2"
   },
-  "bin": "index.js"
+  "bin": "index.js",
+  "repository": "Milo123459/deepercheck"
 }
