@@ -1,0 +1,15 @@
+{
+  "name": "deepercheck",
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "has-own-prop": "^2.0.0",
+    "node-fetch": "^2.6.1",
+    "pkg-dir": "^5.0.0"
+  },
+  "devDependencies": {
+    "prettier": "2.1.2"
+  },
+  "bin": "index.js"
+}
